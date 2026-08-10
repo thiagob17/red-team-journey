@@ -1,2 +1,4 @@
-# red-team-journey
-Documentando minha jornada em Red Team e testes de penetração, iniciando na area.
+# Minha Jornada em Red Team
+- Objetivo: me tornar pentester
+- Início: agosto/2026
+- Labs concluídos: (lista vazia por enquanto)
